@@ -40,29 +40,6 @@ section {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-.field-body .field .field {
-  margin-bottom: 0;
-}
-@media screen and (min-width: 769px), print {
-  .field-body {
-    display: flex;
-    flex-basis: 0;
-    flex-grow: 5;
-    flex-shrink: 1;
-  }
-  .field-body .field {
-    margin-bottom: 0;
-  }
-  .field-body > .field {
-    flex-shrink: 1;
-  }
-  .field-body > .field:not(.is-narrow) {
-    flex-grow: 1;
-  }
-  .field-body > .field:not(:last-child) {
-    margin-right: 0.75rem;
-  }
-}
 @media screen and (min-width: 769px), print {
   .is-sticky {
     position: -webkit-sticky;
