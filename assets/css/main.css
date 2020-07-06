@@ -576,7 +576,7 @@ a.tag:hover {
   margin-top: 1em;
 }
 .menu-label:not(:last-child) {
-  margin-
+  margin-bottom: 1em;
 }
 
 
