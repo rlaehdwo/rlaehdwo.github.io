@@ -1771,7 +1771,7 @@ a.tag:hover {
 }
 .field.is-grouped > .control:not(:last-child) {
   margin-bottom: 0;
-  margin-right: 0.85rem;
+  margin-right: 0.60rem;
 }
 .field.is-grouped > .control.is-expanded {
   flex-grow: 1;
