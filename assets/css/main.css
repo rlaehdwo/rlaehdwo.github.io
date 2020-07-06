@@ -3216,11 +3216,6 @@ a.newer-posts:hover {
   margin: 10px 0;
 }
 
-.tags {
-  margin: 0;
-  padding: 10px;
-}
-
 .tags li {
   display: inline-block;
   margin: 5px;
