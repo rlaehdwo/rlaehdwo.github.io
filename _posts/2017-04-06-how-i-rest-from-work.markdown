@@ -10,7 +10,7 @@ tags: [Android, kotlin]
 안드로이드 설치 방법은 간단합니다.
 우선 아래에 링크를 통해 다운로드를 합니다.
 
-### <a class="se_og_cp" herf="https://developer.android.com/studio/">Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers</a>
+### <a class="se_og_cp" href="https://developer.android.com/studio/">Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers</a>
 > Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain
 
 ## Plaid ramps kitsch woke pork belly
