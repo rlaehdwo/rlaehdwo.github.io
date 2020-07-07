@@ -25,6 +25,7 @@ tags: [Android, kotlin]
         </div>
     </div>
 </div>
+
 <script type="text/data" class="__se_module_data" data-module='{"type":"v1_oglink", "docVersion" : "1.0", "id" :"SEDOC-1528182631886--1324060016_oglink_0" , "data" : {"viewId" : "SEDOC-1528182631886--1324060016_oglink_0", "link" : "https://developer.android.com/studio/", "isVideo" : "false", "thumbnail" : ""}}'></script>
 
 
