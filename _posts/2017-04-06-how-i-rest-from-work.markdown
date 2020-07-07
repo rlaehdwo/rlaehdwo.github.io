@@ -11,21 +11,10 @@ tags: [Android, kotlin]
 우선 아래에 링크를 통해 다운로드를 합니다.
 
 ````
-<div class="se_component se_oglink og_bSize ">
-    <div class="se_sectionArea se_align-center">
-        <div class="se_editArea" id="SEDOC-1528182631886--1324060016_oglink_0">
-            <div class="se_viewArea se_og_wrap">
-                <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata='{"link" : "https://developer.android.com/studio/"}'>
-                    <div class="se_og_txt">
-                            <div class="se_og_tit">Download Android Studio and SDK Tools  |  Android Developers</div>
-                                <div class="se_og_desc">Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
-                            <div class="se_og_cp">developer.android.com</div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
+Download Android Studio and SDK Tools  |  Android Developers
+Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain
+developer.android.com
+             
 ````
 
 ## Plaid ramps kitsch woke pork belly
