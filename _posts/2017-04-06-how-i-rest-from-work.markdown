@@ -10,25 +10,6 @@ tags: [Android, kotlin]
 안드로이드 설치 방법은 간단합니다.
 우선 아래에 링크를 통해 다운로드를 합니다.
 
-<div class="se_component se_oglink og_bSize ">
-    <div class="se_sectionArea se_align-center">
-        <div class="se_editArea" id="SEDOC-1528182631886--1324060016_oglink_0">
-            <div class="se_viewArea se_og_wrap">
-                <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata='{"link" : "https://developer.android.com/studio/"}'>
-                    <div class="se_og_txt">
-                            <div class="se_og_tit">Download Android Studio and SDK Tools  |  Android Developers</div>
-                                <div class="se_og_desc">Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
-                            <div class="se_og_cp">developer.android.com</div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<script type="text/data" class="__se_module_data" data-module='{"type":"v1_oglink", "docVersion" : "1.0", "id" :"SEDOC-1528182631886--1324060016_oglink_0" , "data" : {"viewId" : "SEDOC-1528182631886--1324060016_oglink_0", "link" : "https://developer.android.com/studio/", "isVideo" : "false", "thumbnail" : ""}}'></script>
-
-
 ## Plaid ramps kitsch woke pork belly
 90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
 
