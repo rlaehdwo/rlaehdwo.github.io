@@ -10,17 +10,6 @@ tags: [Android, kotlin]
 안드로이드 설치 방법은 간단합니다.
 우선 아래에 링크를 통해 다운로드를 합니다.
 
-
-.se_oglink .se_og_tit {
-    font-size: 15px;
-    color: #444;
-    font-weight: 600;
-    display: block;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    word-break: break-all;
-}
 <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">
  <div class="se_og_txt"> ### Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers</div>
  <div class="se_og_desc"> > Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
