@@ -11,7 +11,7 @@ tags: [Android, kotlin]
 우선 아래에 링크를 통해 다운로드를 합니다.
 
 ````
-Download Android Studio and SDK Tools  |  Android Developers
+###Download Android Studio and SDK Tools  |  Android Developers
 Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain
 developer.android.com
              
