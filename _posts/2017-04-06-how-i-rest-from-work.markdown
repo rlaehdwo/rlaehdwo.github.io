@@ -12,7 +12,7 @@ tags: [Android, kotlin]
 
 
 ### Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers
->> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain
+> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain
   
    <div class="se_og_cp">developer.android.com</div>
    
