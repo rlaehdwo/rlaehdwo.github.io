@@ -7,7 +7,8 @@ img: title_android.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Android, kotlin]
 ---
-안드로이드 스튜디오 설치 방법 포스팅을 시작하도록 하겠습니다!!! 짝짝짝짝짝~
+안드로이드 스튜디오 설치는 처음접하면 다소 까다롭고 복잡하지만 아래 포스팅 되어있는 순서들만 잘 따라하시면 쉽게 설치 하실 수 있습니다.
+<br>
 ### STEP1-1. 안드로이드 스튜디오를 실행하려면  JAV SDK가 설치 되어 있어야 합니다. 아래 링크를 통해 JAVA SDK를 설치해주세요.
 <br>
 
