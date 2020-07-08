@@ -9,7 +9,7 @@ tags: [Android, kotlin]
 ---
 안드로이드 설치 방법은 간단합니다.
 ## STEP1-1. 안드로이드 스튜디오를 실행하려면  JAV SDK가 설치 되어 있어야 합니다. 아래 링크를 통해 JAVA SDK를 설치해주세요.
-<br><br>
+<br>
 
 ### <a class="se_og_box  __se_link" href="https://www.oracle.com/kr/java/technologies/javase-downloads.html" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Download JAVA SDK</a>
 
