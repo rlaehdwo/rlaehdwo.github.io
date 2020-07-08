@@ -32,9 +32,35 @@ tags: [Android, kotlin]
 
 <br>
 ### STEP2-2. [DOWNLOAD ANDROID STUDIO] 버튼을 클릭합니다.
-![download android]({{site.url}}/assets/img/download_android.PNG)
+![download android 1]({{site.url}}/assets/img/download_android.PNG)
 
 ### STEP2-3. [DOWNLOAD ANDROID STUDIO] 버튼을 클릭하면 아래와 같은 창이 뜨는데 약관에 동의를 하시고 다운로드 버튼을 클릭하세요.
-![download android]({{site.url}}/assets/img/download_android_2.PNG)
+![download android 2]({{site.url}}/assets/img/download_android_2.PNG)
+
+### STEP2-4. 다운로드가 완료되고 추가적인 설치를하면 아래와같은 창이 나오는데 [NEXT] 버튼 누르시면 됩니다.
+![download android 3]({{site.url}}/assets/img/download_android_3.PNG)
+
+### STEP2-5. 설치할 경로 확인하시고 NEXT!
+![download android 4]({{site.url}}/assets/img/download_android_4.PNG)
+
+### STEP2-6. [Do not import settings] 선택 후 [OK] 버튼을 클릭하세요!
+![download android 5]({{site.url}}/assets/img/download_android_5.PNG)
+
+### STEP2-7. [NETX] 버튼 클릭!
+![download android 6]({{site.url}}/assets/img/download_android_6.PNG)
+
+### STEP2-8. [Custom] 선택 후, [NETX] 버튼 클릭!
+![download android 7]({{site.url}}/assets/img/download_android_7.PNG)
 
 
+### STEP2-9. 원하시는 개발 테마를 선택한 뒤 [NEXT]클릭!!
+![download android 8]({{site.url}}/assets/img/download_android_8.PNG)
+
+### STEP2-10. 아래 이미지와 같이 Perfirnabce가 없을 수도 있습니다. 무시하시고 [NEXT] 버튼 클릭!!
+![download android 9]({{site.url}}/assets/img/download_android_9.PNG)
+
+### STEP2-11. 기본 설정값대로 냅두고 [NEXT] 버튼 클릭!!
+![download android 10]({{site.url}}/assets/img/download_android_10.PNG)
+
+### STEP2-12. 자!! 이제 모든 설정을 마쳤습니다![Finish]버튼을 클릭 후 완료 합니다!
+![download android 11]({{site.url}}/assets/img/download_android_11.PNG)
