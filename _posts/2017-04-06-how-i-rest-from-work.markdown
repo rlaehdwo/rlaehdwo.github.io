@@ -72,4 +72,26 @@ tags: [Android, kotlin]
 안드로이드 스튜디오를 설치후에 환경변수를 설정해주어야 안드로이드 스튜디오가 정상 작동합니다.
 어렵지 않으니 천천히 따라오세요~^^
 
-### STEP3-1. 
+### STEP3-1. 윈도우 기준으로 [윈도우키 + R]을 누른후 [sysdm.cpl]을 입력해 해당 속성을 실행시킵니다.
+![setting path 1]({{site.url}}/assets/img/setting_path_1.png)
+
+### STEP3-2. [고급] 탭에서 오른쪽 하단에 [환경변수]를 클릭합니다.
+![setting path 2]({{site.url}}/assets/img/setting_path_2.png)
+
+### STEP3-3. [환경변수]를 클릭하면 아래와 같은 창이 뜰텐데 항목중에 변수에 있는 [Path] 항목을 선택 한 뒤 [편집]을 누릅니다.
+![setting path 3]({{site.url}}/assets/img/setting_path_3.png)
+
+### STEP3-4. 변수값의 맨 끝에 [;C:\Program Files\Android\Android Studio\jre\bin]를 입력하고 [확인]을 누릅니다.
+### 경로 앞에있는 세미콜론(;)은 오타 아닙니다.꼭 넣어주세요!!
+![setting path 4]({{site.url}}/assets/img/setting_path_4.png)
+
+### STEP3-5. [확인]을 누르면 아래같이 나오는데 설치하시는 분들은 설정이 안되어 있을테니 새로만들기 버튼을 누르시면 됩니다!
+![setting path 5]({{site.url}}/assets/img/setting_path_5.png)
+
+### STEP3-6. 그러면 아래와 같이 환경 변수가 추가 되었음을 확인할 수 있습니다!
+![setting path 7]({{site.url}}/assets/img/setting_path_7.png)
+
+### STEP3-7. 이제 설정했던 환경변수를 한번 확인하시구 [확인] 버튼을 눌러 마무리합니다.
+![setting path 8]({{site.url}}/assets/img/setting_path_8.png)
+
+### 어때요? 생각보다 간단하죠?? 혹시 설치 도중 모르는것이 있다면 메일을 남겨주세요!
