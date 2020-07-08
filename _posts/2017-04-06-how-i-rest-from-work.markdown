@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Android, kotlin]
 ---
 안드로이드 설치 방법은 간단합니다.
-## STEP1-1. 안드로이드 스튜디오를 실행하려면  JAV SDK가 설치 되어 있어야 합니다. 아래 링크를 통해 JAVA SDK를 설치해주세요.
+### STEP1-1. 안드로이드 스튜디오를 실행하려면  JAV SDK가 설치 되어 있어야 합니다. 아래 링크를 통해 JAVA SDK를 설치해주세요.
 <br>
 
 ### <a class="se_og_box  __se_link" href="https://www.oracle.com/kr/java/technologies/javase-downloads.html" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Java SE Development Kit 14 - Downloads</a>
@@ -16,19 +16,19 @@ tags: [Android, kotlin]
 
 <br>
 
-## STEP1-2. Oracle JDK에서 JDK Download를 클릭합니다.
+### STEP1-2. Oracle JDK에서 JDK Download를 클릭합니다.
 ![download java sdk 1]({{site.url}}/assets/img/download-java-sdk.PNG)
 
-## STEP1-3. 본인 PC에 맞는 환경을 찾아 다운로드 합니다.
+### STEP1-3. 본인 PC에 맞는 환경을 찾아 다운로드 합니다.
 ![download java sdk 2]({{site.url}}/assets/img/download-java-sdk-2.PNG)
 
 <br><br>
-## STEP2-1. JAVA SDK 설치가 완료 되셨다면 아래 링크를 통해 안드로이드 공식 사이트에 접속해주세요.
+### STEP2-1. JAVA SDK 설치가 완료 되셨다면 아래 링크를 통해 안드로이드 공식 사이트에 접속해주세요.
 ### <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers </a>
 > <div> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
 
 <br>
-## STEP2-2. [DOWNLOAD ANDROID STUDIO] 버튼을 클릭합니다.
+### STEP2-2. [DOWNLOAD ANDROID STUDIO] 버튼을 클릭합니다.
 ![download android]({{site.url}}/assets/img/download_android.PNG)
 
 Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
