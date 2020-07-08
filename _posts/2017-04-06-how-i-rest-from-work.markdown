@@ -11,7 +11,8 @@ tags: [Android, kotlin]
 ## STEP1-1. 안드로이드 스튜디오를 실행하려면  JAV SDK가 설치 되어 있어야 합니다. 아래 링크를 통해 JAVA SDK를 설치해주세요.
 <br>
 
-### <a class="se_og_box  __se_link" href="https://www.oracle.com/kr/java/technologies/javase-downloads.html" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Download JAVA SDK</a>
+### <a class="se_og_box  __se_link" href="https://www.oracle.com/kr/java/technologies/javase-downloads.html" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Java SE Development Kit 14 - Downloads</a>
+> <div>Overview Downloads Documentation Community Technologies Training Java SE Development Kit 8 Downloads Thank you for downloading this release of the Java™ Platform, Standard Edition Development Kit (JDK™). The JDK is a development environment for building applications, applets, and compone</div>
 
 <br>
 
