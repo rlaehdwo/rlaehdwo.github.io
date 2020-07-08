@@ -5,7 +5,7 @@ date: 2020-07-08 17:40:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: title_android.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Android, kotlin]
+tags: [Android,Android Studio, Kotlin]
 ---
 안드로이드 스튜디오 설치는 처음 접하면 다소 까다롭고 복잡하지만 아래 포스팅 되어있는 순서들만 잘 따라하시면 쉽게 설치 하실 수 있습니다. 
 <br>
