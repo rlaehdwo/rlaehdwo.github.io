@@ -53,7 +53,7 @@ tags: [Android, kotlin]
 ![download android 7]({{site.url}}/assets/img/download_android_7.png)
 
 
-### STEP2-9. 원하시는 개발 테마를 선택한 뒤 [NEXT]클릭!! (저는 흰색으로하면 눈의 피로감이 심해서 [Darcula]테마를 사용하였습니다.)
+### STEP2-9. 원하시는 개발 테마를 선택한 뒤 [NEXT]클릭!! (저는 [Light] 테마로하면 눈의 피로감이 심해서 [Darcula]테마를 사용하였습니다. 대게 개발자들은 어두운 테마 쓰더라구요.)
 ![download android 8]({{site.url}}/assets/img/download_android_8.png)
 
 ### STEP2-10. 아래 이미지와 같이 Perfirnabce가 없을 수도 있습니다. 무시하시고 [NEXT] 버튼 클릭!!
