@@ -12,7 +12,7 @@ tags: [Android, kotlin]
 
 
 ### <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers </a>
-<div> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
+> <div> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
 
 
 ## Plaid ramps kitsch woke pork belly
