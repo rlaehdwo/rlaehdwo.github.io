@@ -25,7 +25,7 @@ tags: [Android, kotlin]
 ![download java sdk 2]({{site.url}}/assets/img/download-java-sdk-2.PNG)
 
 <br><br>
-## STEP1. Android Studio 
+## STEP2. Android Studio 
 ### STEP2-1. JAVA SDK 설치가 완료 되셨다면 아래 링크를 통해 안드로이드 공식 사이트에 접속해주세요.
 ### <a class="se_og_box  __se_link" href="https://developer.android.com/studio/" target="_blank" data-linktype="link" data-linkdata="{&quot;link&quot; : &quot;https://developer.android.com/studio/&quot;}">Download Android Studio and SDK Tools &nbsp;|&nbsp; Android Developers </a>
 > <div> Android Studio provides the fastest tools for building apps on every type of Android device. Download Not Available Your current device is not supported. See the system requirements . Download options Release notes Visual layout editor Create complex layouts with ConstraintLayout by adding constrain</div>
@@ -65,3 +65,11 @@ tags: [Android, kotlin]
 
 ### STEP2-12. 자!! 이제 모든 설정을 마쳤습니다![Finish]버튼을 클릭 후 완료 합니다!
 ![download android 11]({{site.url}}/assets/img/download_android_11.png)
+
+<br><br>
+## STEP3. 환경변수 설정
+자! 여기까지 잘 따라 오셨나요?? 다 끝난줄 알았지만 마지막 단계가 있습니다. 
+안드로이드 스튜디오를 설치후에 환경변수를 설정해주어야 안드로이드 스튜디오가 정상 작동합니다.
+어렵지 않으니 천천히 따라오세요~^^
+
+### STEP3-1. 
