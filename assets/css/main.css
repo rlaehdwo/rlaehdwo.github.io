@@ -21,6 +21,16 @@ html {
 /**
  * Remove the margin in all browsers (opinionated).
  */
+.size-small {
+  font-size: 0.85rem !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 body {
   color: #4a4a4a;
   font-size: 1em;
